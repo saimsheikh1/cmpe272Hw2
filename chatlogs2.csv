@@ -1,0 +1,101 @@
+customer_id,timestamp,message_1,message_2,message_3,status
+C11237,2025-03-20T02:26:55.458823,I need help with my order.,The website is too slow.,How do I reset my password?,pending
+C58395,2025-03-05T23:18:55.458823,"My account was locked, what should I do?",Can I get a refund?,How do I contact support?,pending
+C66931,2025-02-26T05:41:55.458823,"My account was locked, what should I do?",Can I get a refund?,The app is not working.,resolved
+C15314,2025-03-18T08:54:55.458823,How do I reset my password?,My payment isn't going through.,"My account was locked, what should I do?",pending
+C65887,2025-03-15T22:54:55.458823,Where is my order?,Can I get a refund?,The app is not working.,unresolved
+C95802,2025-03-24T14:52:55.458823,The website is too slow.,I received the wrong item.,How do I contact support?,unresolved
+C43702,2025-03-18T12:26:55.458823,How do I contact support?,How do I reset my password?,"My account was locked, what should I do?",pending
+C63678,2025-03-09T20:39:55.458823,My payment isn't going through.,"My account was locked, what should I do?",My payment isn't going through.,resolved
+C39400,2025-03-24T22:57:55.458823,I need help with my order.,I need help with my order.,The app is not working.,pending
+C32702,2025-02-23T08:27:55.458823,How do I contact support?,Can I get a refund?,I received the wrong item.,unresolved
+C70985,2025-03-14T13:21:55.458823,Can I get a refund?,My payment isn't going through.,The app is not working.,unresolved
+C24520,2025-03-02T22:31:55.458823,Can I get a refund?,The app is not working.,My payment isn't going through.,resolved
+C26877,2025-03-14T21:31:55.458823,How do I reset my password?,Can I get a refund?,"My account was locked, what should I do?",pending
+C51004,2025-03-06T04:42:55.458823,Can I get a refund?,The website is too slow.,How do I reset my password?,resolved
+C53925,2025-02-24T21:41:55.458823,The app is not working.,"My account was locked, what should I do?",How do I contact support?,resolved
+C70734,2025-02-28T01:51:55.458823,I need help with my order.,How do I reset my password?,The website is too slow.,resolved
+C24251,2025-02-28T22:36:55.458823,How do I contact support?,How do I contact support?,Can I get a refund?,unresolved
+C52921,2025-02-25T22:42:55.458823,I received the wrong item.,The website is too slow.,My payment isn't going through.,resolved
+C52950,2025-03-24T21:38:55.458823,My payment isn't going through.,The website is too slow.,I need help with my order.,unresolved
+C60743,2025-03-15T11:08:55.458823,"My account was locked, what should I do?","My account was locked, what should I do?",How do I contact support?,pending
+C83627,2025-03-03T09:13:55.458823,The app is not working.,My payment isn't going through.,Can I get a refund?,unresolved
+C76687,2025-03-19T18:34:55.458823,Where is my order?,"My account was locked, what should I do?",Where is my order?,resolved
+C71354,2025-03-07T09:08:55.458823,Where is my order?,"My account was locked, what should I do?",My payment isn't going through.,pending
+C24196,2025-03-08T00:08:55.458823,I received the wrong item.,I received the wrong item.,Where is my order?,pending
+C35520,2025-03-17T22:54:55.458823,I received the wrong item.,Can I get a refund?,I need help with my order.,pending
+C33762,2025-02-25T15:02:55.458823,Where is my order?,The website is too slow.,The website is too slow.,unresolved
+C86620,2025-02-25T15:57:55.458823,I received the wrong item.,Can I get a refund?,Where is my order?,unresolved
+C36408,2025-03-15T20:32:55.458823,How do I reset my password?,How do I reset my password?,Where is my order?,unresolved
+C11516,2025-03-05T22:58:55.458823,The website is too slow.,Can I get a refund?,How do I reset my password?,pending
+C18570,2025-02-23T21:15:55.458823,Can I get a refund?,The website is too slow.,Can I get a refund?,unresolved
+C11365,2025-03-25T00:27:55.458823,How do I reset my password?,I received the wrong item.,How do I reset my password?,unresolved
+C29967,2025-03-17T07:16:55.458823,The website is too slow.,I received the wrong item.,How do I contact support?,pending
+C56132,2025-03-21T14:14:55.458823,The app is not working.,How do I reset my password?,The app is not working.,pending
+C67565,2025-03-09T18:53:55.458823,Can I get a refund?,Can I get a refund?,Can I get a refund?,pending
+C34675,2025-03-07T23:48:55.458823,How do I reset my password?,I need help with my order.,How do I reset my password?,pending
+C78889,2025-03-13T03:27:55.458823,My payment isn't going through.,How do I reset my password?,My payment isn't going through.,pending
+C42266,2025-03-14T00:04:55.458823,How do I contact support?,How do I contact support?,The app is not working.,resolved
+C53037,2025-03-23T08:04:55.458823,"My account was locked, what should I do?",How do I contact support?,How do I contact support?,unresolved
+C75952,2025-02-23T09:30:55.458823,The app is not working.,My payment isn't going through.,"My account was locked, what should I do?",unresolved
+C70615,2025-02-27T13:56:55.458823,I need help with my order.,The website is too slow.,"My account was locked, what should I do?",pending
+C79672,2025-03-22T10:18:55.458823,The app is not working.,How do I reset my password?,I received the wrong item.,pending
+C68834,2025-03-24T13:14:55.458823,"My account was locked, what should I do?",I received the wrong item.,How do I contact support?,resolved
+C22373,2025-03-14T20:25:55.458823,The website is too slow.,"My account was locked, what should I do?",The website is too slow.,resolved
+C33135,2025-03-10T09:47:55.458823,How do I reset my password?,The app is not working.,Can I get a refund?,resolved
+C53785,2025-03-18T10:09:55.458823,"My account was locked, what should I do?",The website is too slow.,I received the wrong item.,unresolved
+C85237,2025-02-28T02:41:55.458823,Where is my order?,Can I get a refund?,I received the wrong item.,resolved
+C47333,2025-03-10T19:38:55.458823,Can I get a refund?,I need help with my order.,I received the wrong item.,pending
+C16238,2025-03-08T14:23:55.458823,I received the wrong item.,Where is my order?,My payment isn't going through.,pending
+C82215,2025-03-11T23:54:55.458823,"My account was locked, what should I do?","My account was locked, what should I do?",Can I get a refund?,unresolved
+C86389,2025-02-27T08:47:55.458823,I need help with my order.,"My account was locked, what should I do?",My payment isn't going through.,unresolved
+C49306,2025-02-25T06:12:55.458823,Where is my order?,The website is too slow.,Where is my order?,pending
+C43055,2025-03-24T05:02:55.458823,How do I contact support?,The app is not working.,I received the wrong item.,pending
+C30099,2025-02-25T04:34:55.458823,How do I reset my password?,My payment isn't going through.,Can I get a refund?,resolved
+C40905,2025-03-13T05:45:55.458823,Where is my order?,"My account was locked, what should I do?","My account was locked, what should I do?",unresolved
+C23540,2025-03-24T10:21:55.458823,My payment isn't going through.,"My account was locked, what should I do?",I need help with my order.,unresolved
+C46364,2025-03-17T00:21:55.458823,How do I reset my password?,I need help with my order.,How do I contact support?,resolved
+C81306,2025-03-23T20:35:55.458823,How do I reset my password?,The website is too slow.,Can I get a refund?,unresolved
+C64038,2025-03-08T23:50:55.458823,Where is my order?,The app is not working.,How do I reset my password?,unresolved
+C93789,2025-03-01T14:01:55.458823,Can I get a refund?,"My account was locked, what should I do?",The website is too slow.,resolved
+C47273,2025-02-27T10:07:55.458823,My payment isn't going through.,Can I get a refund?,I need help with my order.,resolved
+C41133,2025-03-06T23:17:55.458823,I need help with my order.,How do I reset my password?,The app is not working.,resolved
+C20582,2025-03-23T21:13:55.458823,"My account was locked, what should I do?",The app is not working.,The app is not working.,pending
+C57574,2025-03-18T22:27:55.458823,The website is too slow.,"My account was locked, what should I do?",I need help with my order.,unresolved
+C12769,2025-03-01T18:35:55.458823,My payment isn't going through.,The website is too slow.,Can I get a refund?,pending
+C77559,2025-03-13T03:13:55.458823,Where is my order?,Where is my order?,I received the wrong item.,pending
+C33694,2025-03-18T04:16:55.458823,I received the wrong item.,I need help with my order.,Can I get a refund?,resolved
+C86907,2025-03-21T08:51:55.458823,"My account was locked, what should I do?",I need help with my order.,"My account was locked, what should I do?",unresolved
+C12285,2025-02-26T07:33:55.458823,I received the wrong item.,Can I get a refund?,The website is too slow.,unresolved
+C47689,2025-03-07T03:30:55.458823,How do I reset my password?,My payment isn't going through.,The website is too slow.,unresolved
+C68383,2025-03-14T11:29:55.458823,Can I get a refund?,How do I reset my password?,Where is my order?,pending
+C59816,2025-03-21T17:36:55.458823,Can I get a refund?,I need help with my order.,Can I get a refund?,pending
+C11658,2025-03-11T19:06:55.458823,I need help with my order.,I received the wrong item.,The website is too slow.,resolved
+C20887,2025-02-27T10:10:55.458823,How do I reset my password?,How do I contact support?,"My account was locked, what should I do?",unresolved
+C32469,2025-02-26T05:39:55.458823,The app is not working.,The website is too slow.,Where is my order?,resolved
+C86231,2025-03-01T12:30:55.458823,My payment isn't going through.,My payment isn't going through.,Can I get a refund?,unresolved
+C79982,2025-03-12T10:13:55.458823,I need help with my order.,"My account was locked, what should I do?",I need help with my order.,resolved
+C43592,2025-03-20T06:10:55.458823,Can I get a refund?,I need help with my order.,How do I contact support?,unresolved
+C74508,2025-03-01T04:02:55.458823,How do I contact support?,I need help with my order.,My payment isn't going through.,unresolved
+C25287,2025-03-06T19:55:55.458823,I need help with my order.,Can I get a refund?,"My account was locked, what should I do?",unresolved
+C32133,2025-03-09T17:20:55.458823,Can I get a refund?,I received the wrong item.,The website is too slow.,resolved
+C63468,2025-03-18T14:47:55.458823,How do I contact support?,I need help with my order.,Where is my order?,resolved
+C49262,2025-02-28T09:04:55.458823,Where is my order?,How do I reset my password?,How do I reset my password?,resolved
+C11100,2025-02-23T14:59:55.458823,How do I contact support?,The app is not working.,Where is my order?,resolved
+C90374,2025-03-15T01:10:55.458823,I need help with my order.,My payment isn't going through.,The app is not working.,unresolved
+C53739,2025-03-07T08:32:55.458823,I received the wrong item.,Where is my order?,I received the wrong item.,unresolved
+C54376,2025-03-17T03:16:55.458823,Can I get a refund?,The website is too slow.,How do I reset my password?,pending
+C52155,2025-03-14T04:41:55.458823,I need help with my order.,How do I reset my password?,The website is too slow.,resolved
+C20500,2025-03-07T08:48:55.458823,"My account was locked, what should I do?","My account was locked, what should I do?",Where is my order?,unresolved
+C44475,2025-03-19T00:51:55.458823,My payment isn't going through.,How do I contact support?,I received the wrong item.,pending
+C47174,2025-02-26T02:25:55.458823,How do I contact support?,Where is my order?,How do I reset my password?,pending
+C18195,2025-03-16T05:19:55.458823,Can I get a refund?,How do I contact support?,"My account was locked, what should I do?",unresolved
+C20782,2025-03-07T06:49:55.458823,The app is not working.,I need help with my order.,The website is too slow.,pending
+C42642,2025-03-21T18:59:55.458823,The app is not working.,I received the wrong item.,I need help with my order.,unresolved
+C28377,2025-03-07T13:46:55.458823,"My account was locked, what should I do?",How do I reset my password?,"My account was locked, what should I do?",resolved
+C27866,2025-02-27T17:44:55.458823,"My account was locked, what should I do?",I need help with my order.,I received the wrong item.,unresolved
+C54898,2025-02-27T08:09:55.458823,How do I contact support?,How do I reset my password?,How do I contact support?,unresolved
+C62201,2025-02-28T07:39:55.458823,I need help with my order.,"My account was locked, what should I do?",How do I contact support?,unresolved
+C70510,2025-02-24T19:40:55.458823,How do I reset my password?,How do I contact support?,The website is too slow.,pending
+C48387,2025-02-28T07:40:55.458823,How do I reset my password?,I need help with my order.,Can I get a refund?,pending
+C88939,2025-03-01T17:53:55.458823,Can I get a refund?,Can I get a refund?,Can I get a refund?,unresolved
